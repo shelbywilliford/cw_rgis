@@ -5,7 +5,7 @@
 library(tidyverse)
 df_mtcars <- as_tibble(mtcars)
 
-# Use `df_mtcars` for Questions 1 - 12
+# Use `df_mtcars` for Questions 1 - 10
 
 # 1. Filter rows where number of cylinders (cyl) is 6
 # Write code to create a new data frame that only includes rows where cyl == 6.
