@@ -34,7 +34,7 @@ pacman::p_load(tidyverse,
 # Reference: Chapter 3
 
 # Q7. Using `df_site_w_county`, create a vector of county names that have at least one fish survey site.
-# Assign the result to `v_s1`. (Hint: use group_by(), tally(), filter(), and pull()).
+# Assign the result to `v_s1`. (Hint: use group_by(), summarize(), filter(), and pull()).
 # Confirm the result contains 49 counties with `length(v_s1)`.
 # Reference: https://aterui.github.io/biostats/data-manipulation.html#group-operation
 
