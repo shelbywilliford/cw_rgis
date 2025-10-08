@@ -1,4 +1,4 @@
-# Take-home assigment for 10/16/2025
+# Take-home assignment for 10/16/2025
 
 if (!require(pacman)) install.packages("pacman")
 
